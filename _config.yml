@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github.com/idunknovv/idunknovv.github.io/blob/main/github_avt_shrunk.png"
+avatar: "https://raw.githubusercontent.com/idunknovv/idunknovv.github.io/refs/heads/main/github_avt_shrunk.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
