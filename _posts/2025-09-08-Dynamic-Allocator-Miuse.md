@@ -1,6 +1,6 @@
 ---
-title: "Dynamic Allocator Miuse"
-date: 2025-08-09 00:00:00 +0700
+title: "House of Botcake"
+date: 2025-09-18 00:00:00 +0700
 ---
 
 
